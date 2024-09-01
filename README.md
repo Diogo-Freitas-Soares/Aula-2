@@ -2,4 +2,4 @@
 Código aula 02
 
 [Código index.html](index.html)
-[Código style.css](https://github.com/Diogo-Freitas-Soares/Aula-2/blob/main/CSS)
+[Código style.css](style.css)
